@@ -1,6 +1,8 @@
 # hy-update-auto
 利用chatgpt写的脚本代码，第一次写脚本代码，比较激动。
 功能：hysteria的核心文件每天自动检查新版本并更新。
+`wget --content-disposition https://raw.githubusercontent.com/itdsgithub/hy-update-auto/main/hy-auto-update.sh && chmod +x hy-auto-update.sh`
+
 
 说明：
 1、对比hysteria的版本，如果realse上发布的版本新，那就更新并替换，但是只是针对小破站那个脚本做的。
