@@ -3,7 +3,7 @@
 
 利用chatgpt写的脚本代码，第一次写脚本代码，比较激动。
 
-功能：hysteria的内核文件每天自动检查新版本并更新。
+功能：hysteria2的内核文件每天自动检查新版本并更新。
 ```shell
 wget --content-disposition https://raw.githubusercontent.com/itdsgithub/hy-update-auto/main/hy-auto-update.sh && bash hy-auto-update.sh
 ```
