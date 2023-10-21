@@ -3,7 +3,7 @@
 
 功能：hysteria的核心文件每天自动检查新版本并更新。
 ```shell
-wget --content-disposition https://raw.githubusercontent.com/itdsgithub/hy-update-auto/main/hy-auto-update.sh && hy-auto-update.sh
+wget --content-disposition https://raw.githubusercontent.com/itdsgithub/hy-update-auto/main/hy-auto-update.sh && bash hy-auto-update.sh
 ```
 
 说明：
